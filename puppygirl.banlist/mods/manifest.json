@@ -1,0 +1,10 @@
+{
+  "Id": "puppygirlzone.banlist",
+  "Dependencies": ["Lobbylifeguard"],
+  "Metadata": {
+        "Name": "Puppy's Ban List",
+        "Author": "puppygirlzone",
+        "Version": "1.0.0",
+        "Description": "Anti-grincher field going up!"
+    }
+}

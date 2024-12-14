@@ -1,0 +1,16 @@
+id = "puppygirlzone.banlist"
+name = "Pup's Ban List"
+description = "Any grincher zone lmao"
+version = "0.5."
+homepage = "https://github.com/x8c8r/webfishing"
+author = "x8c8r"
+
+icon = "icon.png"
+readme = "README.md"
+
+[[dependencies]]
+id = "LobbyLifeguard"
+thunderstore_version = "Vildravn-LobbyLifeguard-1.1.0"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.13"

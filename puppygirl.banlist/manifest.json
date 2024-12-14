@@ -1,0 +1,7 @@
+{
+  "Id": "puppygirl.banlist",
+  "dependencies": [
+    "NotNet-GDWeave-2.0.14",
+    "LobbyLifeguard"
+  ]
+}
